@@ -1,0 +1,1 @@
+const superappMiniappChannel = 'superapp-miniapp-channel';
